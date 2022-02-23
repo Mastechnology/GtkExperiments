@@ -1,3 +1,7 @@
+# mfgStudio is speaking
+https://docs.fedoraproject.org/en-US/quick-docs/configuring-xorg-as-default-gnome-session/
+if you are on wayland, change it to xorg, then do the stuff.
+
 # GTK Experiments
 Hey there! I've got something really interesting for the Linux enthusiast in you.
 
